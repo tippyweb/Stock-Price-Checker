@@ -1,3 +1,9 @@
+/**
+ * #####################################################
+ *  Stock Price Checker - 2024-11-10
+ * #####################################################
+ */
+
 const chaiHttp = require('chai-http');
 const chai = require('chai');
 const assert = chai.assert;

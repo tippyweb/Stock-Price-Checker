@@ -1,3 +1,9 @@
+/**
+ * #####################################################
+ *  Stock Price Checker - 2024-11-10
+ * #####################################################
+ */
+
 'use strict';
 require('dotenv').config();
 const express     = require('express');
