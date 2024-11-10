@@ -6,14 +6,17 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
+		"axios": "^1.7.7",
 		"body-parser": "^1.15.2",
 		"chai": "^4.2.0",
 		"chai-http": "^4.3.0",
 		"cors": "^2.8.1",
+		"crypto-js": "^4.2.0",
 		"dotenv": "^8.2.0",
 		"express": "^4.14.0",
 		"helmet": "^3.1.0",
-		"mocha": "^3.2.0"
+		"mocha": "^3.2.0",
+		"mongoose": "^5.13.22"
 	},
 	"repository": {
 		"type": "git",
